@@ -12,6 +12,8 @@ pluginManagement {
     }
 }
 
+
+// TODO: Update
 rootProject.name = "template"
 
 enableFeaturePreview("VERSION_CATALOGS")
